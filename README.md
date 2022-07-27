@@ -1,7 +1,9 @@
 # -public-HON_SCANNER_PLUGIN_AYCE-
 
 App GUI
+
 ![image](https://user-images.githubusercontent.com/11386676/181269053-5f4814e2-9535-4c8d-90f9-fa3ca20902bb.png)
+
 Instructions:
 - install the apk and run it
 - after entering your settings, press SAVE AND CLOSE to persist settings
