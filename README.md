@@ -1,5 +1,11 @@
 # -public-HON_SCANNER_PLUGIN_AYCE-
 
+APK Download
+https://github.com/NDZL/-public-HON_SCANNER_PLUGIN_AYCE-/releases/download/v1.0/AYCE_SCANNER_PLUGIN-v1.0.apk
+
+![image](https://user-images.githubusercontent.com/11386676/181271576-375c3741-e0cf-43d1-a4d0-f3b69a307302.png)
+
+
 App GUI
 
 ![image](https://user-images.githubusercontent.com/11386676/181269053-5f4814e2-9535-4c8d-90f9-fa3ca20902bb.png)
